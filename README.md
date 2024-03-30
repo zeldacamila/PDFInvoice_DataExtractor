@@ -1,4 +1,4 @@
-# PDFInvoice_DataExtractor
+# PDF Invoices Data Extractor
 This is a Fast API builded to extract and collect data from pdf DIAN invoices
 
 ## Technologies Used
